@@ -58,7 +58,7 @@ mindflow-ai/
 ## 👥 Roles del Equipo
 
 - **Product Owner / Lead AI Architect** – Edwin Ibagué  
-- **Full‑Stack Developer** – (Tu nombre)  
+- **Full‑Stack Developer** – (Daniel Felipe Andrade)  
 - **NLP Engineer** – Especialista en SpaCy / LangChain  
 - **Frontend Developer** – Interfaz Streamlit / React  
 - **QA / Tester** – Validación de prompts y casos clínicos  
