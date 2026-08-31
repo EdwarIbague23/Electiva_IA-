@@ -66,42 +66,6 @@ mindflow-ai/
 
 ---
 
-## 🚀 Guía de Inicio Rápido (Quickstart)
-
-1. **Clona el repositorio**  
-   ```bash
-   git clone https://github.com/EdwarIbague23/Electiva_IA-.git
-   cd Electiva_IA-
-   ```
-2. **Crea y activa un entorno virtual** (recomendado)  
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate   # Windows: .venv\Scripts\activate
-   ```
-3. **Instala las dependencias**  
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. **Configura las variables de entorno**  
-   ```bash
-   cp .env.example .env
-   # Edita .env con tus claves de API (OpenAI, Anthropic, etc.)
-   ```
-5. **Levanta la API**  
-   ```bash
-   uvicorn backend.app:app --reload
-   ```
-6. **Ejecuta la interfaz** (elige una)  
-   ```bash
-   # Opción A – Streamlit
-   streamlit run frontend/app.py
-
-   # Opción B – React
-   cd frontend && npm install && npm run dev
-   ```
-7. **Accede a la docs** en `http://localhost:8000/docs` (FastAPI) o `http://localhost:8501` (Streamlit).
-
----
 
 ## ⚠️ Disclaimer Ético
 
