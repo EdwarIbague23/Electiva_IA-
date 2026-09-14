@@ -54,13 +54,13 @@ mi-framework-ia/
 ├── Proyecto_MindFlow_AI.pdf # Documento oficial del proyecto técnico
 └── README.md            # Descripción principal del proyecto
 
-👥 Roles del Equipo
+## 👥 Roles del Equipo
 Product Owner / Lead AI Architect – Edwar Esteban Ibagué
 
 Backend Developer – Daniel Felipe Andrade
 
 NLP Engineer & Frontend – Nicol Sneider Murillo
-
+---
 ⚠️ Disclaimer Ético
 MindFlow AI es una herramienta de apoyo analítico para profesionales de la salud mental.
 
