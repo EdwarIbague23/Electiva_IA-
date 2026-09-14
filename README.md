@@ -53,3 +53,23 @@ mi-framework-ia/
 ├── .gitignore           # Archivos excluidos del control de versiones
 ├── Proyecto_MindFlow_AI.pdf # Documento oficial del proyecto técnico
 └── README.md            # Descripción principal del proyecto
+
+👥 Roles del Equipo
+Product Owner / Lead AI Architect – Edwar Esteban Ibagué
+
+Backend Developer – Daniel Felipe Andrade
+
+NLP Engineer & Frontend – Nicol Sneider Murillo
+
+⚠️ Disclaimer Ético
+MindFlow AI es una herramienta de apoyo analítico para profesionales de la salud mental.
+
+No emite diagnósticos clínicos ni sustituye la evaluación profesional.
+
+No almacena datos de identificación personal (PII) sin el consentimiento explícito del paciente y el cumplimiento de normativas de privacidad.
+
+Los resultados (emociones, distorsiones cognitivas, preguntas sugeridas) deben ser validados y reinterpretados por el terapeuta antes de ser incorporados a la historia clínica.
+
+El uso indebido de la herramienta para tomar decisiones médicas por cuenta propia está estrictamente prohibido.
+
+¿Tienes dudas? Revisa la sección de Issues o abre un nuevo reporte.
